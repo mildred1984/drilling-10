@@ -1,0 +1,230 @@
+
+body{
+  background-color: #222828;
+  padding: 3%;
+}
+
+.inicio{
+  color: rgb(98, 78, 78);
+  text-align: center;
+  margin-bottom: 1%;
+ 
+
+}
+
+.iniciop{
+  color: rgb(239, 217, 217);
+  font-style: italic;
+
+}
+
+p{
+  font-style: italic;
+}
+
+.img-principio{
+  width: 7.1%;
+  height: 7.1%;
+ 
+ 
+}
+.first-box{
+ 
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo-img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#h1-1{
+  margin-top: 1.5px;
+}
+
+.linea-inicio{
+  width: 30%;
+  height: 2px;
+  margin-bottom: 1px;
+  color:white;
+  background: white;
+
+}
+
+.img-primera{
+  display: flex;
+  justify-content: flex-end;
+ 
+}
+
+.principio{
+  background-color: #688686;
+  padding: 2%;
+}
+ 
+.img1{
+  width: 60%;
+  height: 30%;
+  border-radius: 15%;
+}
+
+.img2{
+  width: 60%;
+  height: 50%;
+  border-radius: 45%;
+}
+
+.img3{
+  width: 60%;
+  height: 50%;
+  border-radius: 40%;
+}
+
+.img4{
+  width: 60%;
+  height: 40%;
+  border-radius: 40%;
+}
+
+.caja1{
+  text-align: center;
+}
+
+.linea1 {
+  width: 55%;
+  background: black;
+  height: 2px;
+  margin-bottom: 1px;
+}
+
+.linea2{
+  width: 35%;
+  background: rgb(33, 29, 29);
+  height: 2px;
+  margin-bottom: 1px;
+  margin-top: 7%;
+}
+
+.linea3{
+  width: 69%;
+  background: black;
+  height: 2px;
+  margin-bottom: 1px;
+  margin-top: 7%;
+}
+
+.linea4{
+  width: 39%;
+  background: black;
+  height: 2px;
+  margin-bottom: 1px;
+  margin-top: 7%;
+}
+
+.linea5{
+  width: 25%;
+  background: black;
+  height: 2px;
+  margin-bottom: 1px;
+  margin-top: 7%;
+}
+
+.linea6{
+  width: 48%;
+  background: black;
+  height: 2px;
+  margin-bottom: 1px;
+  margin-top: 7%;
+}
+
+.img-principio2{
+  width: 7.1%;
+  height: 7.1%;
+}
+
+.fin{
+  background-color: #0C0C0C;
+  padding: 5%;
+ 
+}
+
+.ult-img1{
+  width: 5%;
+  height: 5%;
+  float: right;
+ 
+ 
+}
+.img-ult{
+  display: flex;
+  justify-content: center;
+}
+
+.h1{
+  text-align: center;
+  color: white;
+}
+
+.p-h1{
+  color: white;
+}
+
+.pult{
+  text-align: center;
+  color: white;
+  font-style: italic;
+  margin-bottom: 6%;
+}
+
+.text-final{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+summary{
+  list-style: none;
+  text-decoration: underline;
+  color: purple;
+  margin-bottom: 10%;
+}
+header{
+  background-color:rgb(12, 10, 10);
+  padding: 10%;
+  
+}
+nav{
+ 
+  display: flex;
+  justify-content: space-around;
+}
+a{
+  color: #bccece;
+  text-decoration:none;
+}
+.ultima-caja{
+ background-color: #ccdfdf;
+ padding: 1.8%;
+ border-radius: 5%;
+ 
+}
+
+.top-img2{
+  width: 6%;
+ 
+}
+
+#img-ultima{
+  display: flex;
+  justify-content: flex-end;
+ align-items: flex-end;
+
+}
+
+@media screen and (min-width: 700px) {
+ 
+}
+
+
